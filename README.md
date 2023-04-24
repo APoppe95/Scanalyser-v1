@@ -1,2 +1,5 @@
 # Scanalyser-v1
-(Under Construction) Resting state removal, picocavity event clustering, and more!
+Resting state removal, picocavity event clustering, and more!
+
+- Currently under construction
+  - Code expected to be made accessible to the public after the paper has been published.
